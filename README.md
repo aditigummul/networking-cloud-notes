@@ -1,6 +1,8 @@
 # Networking & Cloud Notes 🌐
 
-Welcome! I'm Aditi, an IT Infrastructure professional focused on Networking, Cloud, Cybersecurity and Digital Transformation.
+Welcome! I'm Aditi, a Business Development Manager working across IT Infrastructure, Networking, Cybersecurity, Cloud and AI solutions.
+
+This repository contains my learning notes, technology insights and practical understanding of enterprise IT solutions.
 
 ## 📚 Areas I'm Learning
 
@@ -8,11 +10,11 @@ Welcome! I'm Aditi, an IT Infrastructure professional focused on Networking, Clo
 - ☁️ Cloud Technologies
 - 🔐 Cybersecurity & Network Security
 - 🤖 AI & IT Automation
-- 🏢 Enterprise IT Infrastructure
+- 🖥️ Enterprise IT Infrastructure
 
 ## 🎯 Purpose
 
-This repository contains my learning notes, technology insights, and practical understanding of enterprise IT infrastructure and networking.
+This repository is my knowledge base for understanding enterprise technology, infrastructure and cybersecurity solutions from both a technical and business perspective.
 
 ## 🚀 Currently Exploring
 
@@ -21,7 +23,14 @@ This repository contains my learning notes, technology insights, and practical u
 - Software-Defined Networking
 - Cloud Security
 - AI-driven IT Automation
+- Enterprise Technology Solutions
+
+## 💡 Focus Areas
+
+**Technology:** IT Infrastructure | Networking | Cybersecurity | Cloud | AI
+
+**Business:** Business Development | Enterprise Solutions | Customer Engagement
 
 ---
 
-*Learning continuously. Building practical knowledge. Connecting technology with business needs.*
+⭐ This repository will be continuously updated as I learn and explore new technologies.
