@@ -1,33 +1,75 @@
 # Networking Basics 🌐
 
+A practical overview of networking concepts relevant to enterprise IT infrastructure, cloud and cybersecurity.
+
 ## What is Networking?
 
-Networking is the process of connecting computers, devices and systems so they can communicate and share data.
+Networking is the process of connecting computers, devices and systems so they can communicate and securely share data and resources.
 
-## Key Networking Components
+## 🔹 Key Networking Components
 
-- **Router** – Connects different networks and directs traffic.
-- **Switch** – Connects devices within the same network.
-- **Firewall** – Protects the network by controlling incoming and outgoing traffic.
-- **Access Point** – Provides wireless network connectivity.
-- **Server** – Provides services and resources to connected devices.
+- **Router** – Connects different networks and routes traffic between them.
+- **Switch** – Connects devices within a local network and forwards data to the appropriate destination.
+- **Firewall** – Monitors and controls network traffic based on defined security policies.
+- **Access Point** – Provides wireless connectivity to network devices.
+- **Server** – Provides applications, services and resources to connected systems.
+- **Load Balancer** – Distributes network or application traffic across multiple servers.
 
-## Important Networking Concepts
+## 🔹 Important Networking Concepts
 
 - IP Address
+- IPv4 & IPv6
+- MAC Address
 - DNS
 - DHCP
-- LAN & WAN
 - TCP/IP
+- TCP vs UDP
+- Ports & Protocols
+- Subnetting
+- VLAN
+- NAT
+- Routing
+- Switching
+
+## 🔹 Network Types
+
+- LAN – Local Area Network
+- WAN – Wide Area Network
+- WLAN – Wireless Local Area Network
+- VPN – Virtual Private Network
+- SD-WAN – Software-Defined Wide Area Network
+
+## 🔐 Networking & Cybersecurity
+
+Networking and cybersecurity are closely connected. Key security concepts include:
+
+- Network Segmentation
+- Firewalls
 - VPN
-- Network Security
+- Zero Trust
+- Network Access Control
+- IDS/IPS
+- Secure Remote Access
+- SASE
 
-## Enterprise Perspective
+## ☁️ Networking & Cloud
 
-In an enterprise environment, networking provides the foundation for secure communication, cloud connectivity, application access and business operations.
+Modern enterprise networks increasingly integrate with cloud environments.
 
-As I continue learning, I will document practical concepts around Networking, Cloud, Cybersecurity and IT Infrastructure.
+Key areas I'm exploring:
+
+- Cloud Networking
+- VPC / VNet
+- Cloud Security
+- Hybrid Cloud
+- Multi-Cloud Networking
+- VPN & Direct Connectivity
+- Load Balancing
+
+## 💼 Enterprise Perspective
+
+Understanding networking helps me better understand enterprise IT requirements and business solutions across infrastructure, cybersecurity, cloud and managed services.
 
 ---
 
-*Learning continuously. Building practical technology knowledge.*
+📚 **This document will be continuously updated as I learn and explore networking technologies.**
