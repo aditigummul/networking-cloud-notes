@@ -7,6 +7,7 @@ I regularly share practical insights and observations around enterprise technolo
 * [☁️ Cloud Security: Building Resilience Through Secure Architecture](https://lnkd.in/p/dS7Vy2sF)
 * [🚨 One of the Most Expensive IT Mistakes in 2026: Assuming Backup = Ransomware Recovery](https://lnkd.in/p/dUxHa9NG)
 * [SSL/TLS Certificate Validity Is Getting Shorter. Are You Ready?](https://lnkd.in/p/dCBJNrRV)
+* [CryptoOne – Secure Digital Identity with Certificate & SSH Key Management](https://lnkd.in/p/eZ9P5hdn)
 * [Trust Nothing. Verify Everything. — Zero Trust Security](https://lnkd.in/p/drZ_rU_K)
 
 ## 🛡️ DPDP & Data Protection
